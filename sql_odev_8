@@ -1,0 +1,97 @@
+--CREATE DATABASE test
+
+--CREATE TABLE employee (
+--id INTEGER PRIMARY KEY,
+--name VARCHAR(50),
+--birthday DATE,
+--email VARCHAR(100)
+--);
+
+--insert into employee (id, name, birthday, email) values (4725, 'Doy Kovelmann', '1932-02-12', 'dkovelmann0@webmd.com');
+--insert into employee (id, name, birthday, email) values (2382, 'Dedie Barnardo', '1978-02-15', 'dbarnardo1@sina.com.cn');
+--insert into employee (id, name, birthday, email) values (8293, 'Leeanne Pavelka', '1992-02-18', 'lpavelka2@squarespace.com');
+--insert into employee (id, name, birthday, email) values (5640, 'Eberhard Kleinplatz', '1921-11-21', 'ekleinplatz3@arstechnica.com');
+--insert into employee (id, name, birthday, email) values (8181, 'Zsa zsa Skouling', '1962-02-16', 'zzsa4@skyrock.com');
+--insert into employee (id, name, birthday, email) values (4063, 'Melodie Sprulls', '1981-02-04', 'msprulls5@upenn.edu');
+--insert into employee (id, name, birthday, email) values (9258, 'Raddie Potteril', '1957-09-05', 'rpotteril6@dedecms.com');
+--insert into employee (id, name, birthday, email) values (3625, 'Lazar Blyden', '1986-11-24', 'lblyden7@state.gov');
+--insert into employee (id, name, birthday, email) values (1583, 'Alexia Rappa', '1951-07-27', 'arappa8@google.nl');
+--insert into employee (id, name, birthday, email) values (4598, 'Cherrita Winspare', '1997-05-12', 'cwinspare9@squarespace.com');
+--insert into employee (id, name, birthday, email) values (8649, 'Tomlin Crichten', '1926-05-27', 'tcrichtena@hostgator.com');
+--insert into employee (id, name, birthday, email) values (3362, 'Emmy Dmitrievski', '1902-05-15', 'edmitrievskib@amazon.com');
+--insert into employee (id, name, birthday, email) values (7763, 'Roanna Skeel', '1941-02-02', 'rskeelc@cmu.edu');
+--insert into employee (id, name, birthday, email) values (3849, 'Loralie Taaffe', '1902-08-30', 'ltaaffed@addthis.com');
+--insert into employee (id, name, birthday, email) values (3073, 'Angelle Brumfitt', '1946-11-07', 'abrumfitte@constantcontact.com');
+--insert into employee (id, name, birthday, email) values (5096, 'Symon Dorot', '1989-09-10', 'sdorotf@sun.com');
+--insert into employee (id, name, birthday, email) values (8024, 'Othilie Villaret', '1917-10-20', 'ovillaretg@liveinternet.ru');
+--insert into employee (id, name, birthday, email) values (7069, 'Romonda Gilbride', '1999-07-24', 'rgilbrideh@bandcamp.com');
+--insert into employee (id, name, birthday, email) values (8243, 'Sari Bereford', '1970-12-07', 'sberefordi@cbsnews.com');
+--insert into employee (id, name, birthday, email) values (3228, 'Chiquia Boswell', '1929-03-06', 'cboswellj@miitbeian.gov.cn');
+--insert into employee (id, name, birthday, email) values (1002, 'Garret Maureen', '1907-01-17', 'gmaureenk@netvibes.com');
+--insert into employee (id, name, birthday, email) values (7211, 'Ardelia Lazer', '1982-09-23', 'alazerl@purevolume.com');
+--insert into employee (id, name, birthday, email) values (52, 'Rachael Draper', '1921-09-13', 'rdraperm@sina.com.cn');
+--insert into employee (id, name, birthday, email) values (5883, 'Rachele Zannutti', '1927-09-24', 'rzannuttin@google.com.au');
+--insert into employee (id, name, birthday, email) values (6110, 'Robin Procter', '1940-02-04', 'rproctero@dailymotion.com');
+--insert into employee (id, name, birthday, email) values (4615, 'Westley Jugging', '1938-12-14', 'wjuggingp@shareasale.com');
+--insert into employee (id, name, birthday, email) values (2959, 'Kym Verzey', '1912-05-24', 'kverzeyq@sfgate.com');
+--insert into employee (id, name, birthday, email) values (623, 'Emmalynne Castiglio', '1978-10-15', 'ecastiglior@acquirethisname.com');
+--insert into employee (id, name, birthday, email) values (4224, 'Fara Bossons', '1942-11-08', 'fbossonss@ameblo.jp');
+--insert into employee (id, name, birthday, email) values (9441, 'Monti Neilands', '1936-06-07', 'mneilandst@cafepress.com');
+--insert into employee (id, name, birthday, email) values (263, 'Klemens Blowick', '1907-10-30', 'kblowicku@wikia.com');
+--insert into employee (id, name, birthday, email) values (8266, 'Cull Andrivel', '1997-06-12', 'candrivelv@lycos.com');
+--insert into employee (id, name, birthday, email) values (1943, 'Derward Sheldon', '1991-07-03', 'dsheldonw@google.com.au');
+--insert into employee (id, name, birthday, email) values (7901, 'Piggy Pressman', '1992-07-22', 'ppressmanx@go.com');
+--insert into employee (id, name, birthday, email) values (2374, 'Savina Praill', '1963-05-22', 'sprailly@ow.ly');
+--insert into employee (id, name, birthday, email) values (4454, 'Jacqueline St. Aubyn', '1930-09-01', 'jstz@sbwire.com');
+--insert into employee (id, name, birthday, email) values (9867, 'Jordain Soldner', '1914-07-11', 'jsoldner10@multiply.com');
+--insert into employee (id, name, birthday, email) values (2438, 'Darda Gomersall', '1961-05-01', 'dgomersall11@mayoclinic.com');
+--insert into employee (id, name, birthday, email) values (1511, 'Lona Vischi', '1992-02-10', 'lvischi12@cargocollective.com');
+--insert into employee (id, name, birthday, email) values (8157, 'Ileane Rosenbusch', '1973-05-16', 'irosenbusch13@businessinsider.com');
+--insert into employee (id, name, birthday, email) values (1228, 'Tine Gresser', '1969-11-18', 'tgresser14@huffingtonpost.com');
+--insert into employee (id, name, birthday, email) values (1328, 'Pembroke Lorentz', '1948-02-14', 'plorentz15@topsy.com');
+--insert into employee (id, name, birthday, email) values (8983, 'Jordana Takis', '1932-03-25', 'jtakis16@nytimes.com');
+--insert into employee (id, name, birthday, email) values (3480, 'Octavia Towner', '1983-03-09', 'otowner17@google.com.hk');
+--insert into employee (id, name, birthday, email) values (6555, 'Jason Pointin', '1954-04-13', 'jpointin18@marketwatch.com');
+--insert into employee (id, name, birthday, email) values (4185, 'Sargent De Francisci', '1948-06-24', 'sde19@mozilla.org');
+--insert into employee (id, name, birthday, email) values (2708, 'Lenee Foston', '1973-05-24', 'lfoston1a@clickbank.net');
+--insert into employee (id, name, birthday, email) values (8652, 'Cyril Lavis', '1922-07-02', 'clavis1b@wufoo.com');
+--insert into employee (id, name, birthday, email) values (2371, 'Doug Matschoss', '1961-01-07', 'dmatschoss1c@marketwatch.com');
+--insert into employee (id, name, birthday, email) values (7638, 'Rowena Andrat', '1912-10-08', 'randrat1d@telegraph.co.uk');
+
+
+--UPDATE employee
+--SET name = 'DENEME'
+--WHERE id < 1500;
+
+--UPDATE employee
+--SET email = 'patika@dev.com'
+--WHERE email LIKE '%com';
+
+--UPDATE employee
+--SET birthday = '2000-01-01'
+--WHERE name LIKE 'DENEME';
+
+--UPDATE employee
+--SET id = 9999
+--WHERE birthday = '1951-07-27';
+
+--UPDATE employee
+--SET email = 'deneme@deneme.com'
+--WHERE name LIKE 'D%';
+
+--DELETE FROM employee
+--WHERE name LIKE 'T%';
+
+--DELETE FROM employee
+--WHERE email LIKE '%@deneme.com';
+
+--DELETE FROM employee
+--WHERE birthday = '1942-11-08';
+
+--DELETE FROM employee
+--WHERE id < 5000
+--RETURNING *;
+
+--DELETE FROM employee
+--WHERE email = '%@%'
+--RETURNING *;
